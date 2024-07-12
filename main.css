@@ -6,11 +6,11 @@
 }
 
 header {
-    background-color: #5f27cd;
+    background-color: #000;
     padding: 16px 0;
     color: #fff;
     display: flex;
-    border-bottom: 16px solid #341f97;
+    border-bottom: 16px solid #565657;
     justify-content: center;
     text-transform: uppercase;
     font-style: italic;
@@ -21,7 +21,7 @@ header button {
 }
 
 form {
-    background-color: #c8d6e5;
+    background-color: #c6c7c8;
     padding: 24px 0;
     text-align: center;
     display: none;
